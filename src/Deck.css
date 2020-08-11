@@ -1,0 +1,24 @@
+.Deck-title {
+	color: azure;
+	font-size: 1.2rem;
+	text-transform: uppercase;
+}
+
+.Deck-btn {
+	background: none;
+	outline: none;
+	font: inherit;
+	margin: .5em;
+	padding: 1em 2em;
+	color: #009688;
+	border: 2px solid;
+}
+
+.Deck-btn:hover {
+	border-color: teal;
+	color: white;
+}
+
+.Deck-card-area {
+	margin-top: 80px;
+}
